@@ -2,6 +2,7 @@
 
 This repo contains Assignments done of Image Signal Processing as below:
 Assignment 1: Geometric Transforms
+Assignment 2: Occlusion detection
 Assignment 3: Image mosaicing
 Assignment 4: Space-invariant Blurring
 Assignment 5: Space-variant blurring
